@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "enablessl": "false",
+  "hostMail": "a@a.com",
+  "recieverMail": "b@b.com",
+  "APIkey": "sua_chave"
+}
